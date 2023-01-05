@@ -5,3 +5,11 @@ String s = "ki";
 String Y = "mss";
 String f ="sagra";
 String = "amel";
+ajnrgjanogrnaj
+apkjrngoanjrg
+ajnrgpjanrg
+jarngnar
+gmanrpga
+'rgna
+nrg
+argn'
